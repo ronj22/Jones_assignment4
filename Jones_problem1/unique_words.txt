@@ -1,0 +1,7 @@
+act
+tract
+sack
+mood
+happy
+sad
+facts

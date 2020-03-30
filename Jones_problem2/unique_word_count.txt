@@ -1,0 +1,7 @@
+act 0
+tract 1
+sack 0
+mood 0
+happy 1
+sad 0
+facts 0
